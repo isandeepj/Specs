@@ -10,7 +10,7 @@ Pod::Spec.new do |spec|
     DESC
   
     spec.homepage     = "https://github.com/webrtc-sdk/Specs"
-    spec.license      = { :type => 'BSD', :file => 'WebRTC.xcframework/LICENSE' }
+    spec.license      = { :type => 'BSD', :file => 'LICENSE' }
     spec.author       = "webrtc-sdk"
     spec.ios.deployment_target = '10.0'
     spec.osx.deployment_target = '10.11'
